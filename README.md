@@ -78,12 +78,29 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![263041033-e43d37f5-5c35-46a8-80f7-14643f5978d5](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/dbb27c16-6e67-4f40-8057-d2e4c3f1f0b3)
-![263041048-42635a5b-b95e-4575-bd2e-e1c4f06623b5](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/f7333b86-9302-4592-bacc-8b3902448de6)
-![263041065-60ce699e-4b04-4747-82da-163795080db0](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/0146f9af-6960-466e-89cc-dbd28c769137)
-![263041090-1f7290a2-ea16-4278-92f0-c9f47839304d](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/5c0ffc82-c25c-45c1-b067-4a55a9102b65)
-![263041268-b8c3f32c-8791-403d-868a-4a8124221a34](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/6e45b2e8-2e3a-4eb1-85e5-57f60581cc6e)
-![263041299-0562348b-b72c-489c-a1c8-099588e0fc02](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/fc0bb8aa-c136-42f8-8616-7508307eebb9)
+## Dataset:
+![278995575-c7816d33-6dab-45e2-8d19-9a11e9583cb5](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/1d97ef85-709f-4981-8c69-f9fe4d25603d)
+
+## Head values:
+![278996479-7f3d7783-4601-4e70-989f-2ccbf87d0765](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/80e00d51-d711-42f8-b4a4-4ab2fbc8572d)
+
+## Tail values:
+![278996533-5343e114-fe3a-4ad7-8058-6b81db462fdc](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/e103e6b7-44c1-456d-b282-50a923b4b389)
+
+## X and Y values:
+![278996577-f84947e0-99a3-444c-8286-c59cc0660a4e](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/ff7a3d37-0a2a-4ff5-b7e4-c63cf147f682)
+
+## Predication values of X and Y:
+![278996605-6ea46100-8530-4491-821e-079308a1eef5](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/ac89d678-c5f5-4867-974b-774d01030ed7)
+
+## MSE,MAE and RMSE:
+![278996622-0f3750f1-fec0-4008-abcf-7e7b971d82a9](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/ac1bbccf-ef3e-433f-94c0-b235cdd7f330)
+
+## Training Set:
+![278996909-088c3714-a70d-4ef0-b952-1d26c48e1fa8](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/987f8ec6-0f82-4f3a-80be-2b3f4d8cc75a)
+
+## Testing Set:
+![278996855-aa18e6a5-11f7-410e-bbd6-89c052ff52a6](https://github.com/Yazhini-G/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/120244201/a189b100-5390-42f6-924c-f6d0350a8fa6)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
